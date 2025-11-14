@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Build Hutao - Genshin Impact</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Build Hutao</h1>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../index.html#karakter-list">Karakter</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img src="../images/hutao.png" alt="Hutao">
+      <h2>Hutao</h2>
+      <p>Element: Pyro | Weapon: Polearm | Role: DPS</p>
+    </section>
+
+    <section class="build">
+      <h3>Senjata Terbaik</h3>
+      <ul>
+        <li>Staff of Homa</li>
+        <li>Polearm Favorit Lainnya</li>
+      </ul>
+
+      <h3>Artefak Terbaik</h3>
+      <ul>
+        <li>Crimson Witch of Flames (4 Set)</li>
+      </ul>
+
+      <h3>Stats Prioritas</h3>
+      <ul>
+        <li>HP%, Crit Rate, Crit DMG</li>
+      </ul>
+
+      <h3>Tips Skill Rotation</h3>
+      <p>Gunakan skill elemental + burst secara berurutan untuk damage maksimal.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Website ini bukan resmi miHoYo. Semua build hanya referensi.</p>
+  </footer>
+</body>
+</html>

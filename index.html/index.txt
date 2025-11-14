@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Genshin Impact Builds</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Genshin Impact Builds</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="karakter/hutao.html">Karakter</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>Selamat datang di website Genshin Impact Builds! Temukan build terbaik untuk karakter favoritmu.</p>
+    </section>
+
+    <section class="karakter-list">
+      <h2>Karakter Populer</h2>
+      <div class="cards">
+        <div class="card">
+          <img src="images/hutao.png" alt="Hutao">
+          <h3>Hutao</h3>
+          <a href="karakter/hutao.html">Lihat Build</a>
+        </div>
+        <div class="card">
+          <img src="images/diluc.png" alt="Diluc">
+          <h3>Diluc</h3>
+          <a href="karakter/diluc.html">Lihat Build</a>
+        </div>
+        <div class="card">
+          <img src="images/ganyu.png" alt="Ganyu">
+          <h3>Ganyu</h3>
+          <a href="karakter/ganyu.html">Lihat Build</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Website ini bukan resmi miHoYo. Semua build hanya referensi.</p>
+  </footer>
+</body>
+</html>
